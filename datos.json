@@ -1,0 +1,110 @@
+[
+    {
+        "nombre": "Fachada Yunus",
+        "descripcion": "En colaboración con Josefina Santibáñez, Sofía Opazo y Constanza Velásquez, diseñamos una nueva fachada para la escuela de la Corporación Yunus en Peñalolén. Nos enfocamos en mejorar la orientación, seguridad y comunicación visual, creando un portal de entrada con listones que abstraen la Cordillera de los Andes, señalética clara y sistemas de iluminación sutil, creando un acceso seguro y visualmente atractivo que realza la identidad de Yunus.",
+        "fecha": "2023",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/84110427-7ced-4072-b50d-ce1276715225",
+        "detalle": ["Yunus-1.jpg","Yunus-2.jpg","Yunus-3.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Ova",
+        "descripcion": "Creé la identidad del estudio de diseño OVA, inspirado en la eficiencia, calidad y creatividad. El nombre surge de un juego de vocales basado en los nombres de sus fundadoras. Las tarjetas de presentación en blanco y negro reflejan elegancia, simplicidad y profesionalismo, reforzando su imagen de marca.",        
+        "fecha": "2023",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/b0080fe0-69f0-4b7f-a314-0fa60c1dcfca",
+        "detalle": ["Ova-1.jpg","Ova-2.jpg","Ova-3.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Maiuu",
+        "descripcion": "En colaboración con Martina Santamaría y Josefina Santibáñez, creamos Maiuu, una casa de gatos inspirada en un dodecaedro de madera MDF. Su diseño incluye un logo tallado en referencia a la palabra hawaiana, que significa garras.  Las piezas se ensamblan con uniones impresas en 3D de PLA, garantizando resistencia y durabilidad. El proceso incluyó corte CNC, lijado y ensamblaje, resultando en una estructura estética y funcional.",
+        "fecha": "2023",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/1454f139-08c5-40b2-b82e-fd97a3e5275f",
+        "detalle": ["Maiuu-1.jpg","Maiuu-2.jpg","Maiuu-3.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Fliegtravel",
+        "descripcion": "Creé el branding y la identidad de Fliegtravel, una marca que transforma la elegancia y la innovación en experiencias de viaje inolvidables. El diseño refleja la sofisticación y exclusividad que caracteriza a la marca, utilizando una paleta de colores en blanco y negro que evoca simplicidad y profesionalismo. El logotipo transmite un sentido de lujo y aventura, asegurando que cada elemento de la marca refleje la experiencia única y personalizada que se ofrece.",
+        "fecha": "2024",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/65525e3f-3099-4fe8-abd2-d78860d86c3b",
+        "detalle": ["Fliegtravel-1.jpg","Fliegtravel-2.jpg","Fliegtravel-3.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Vacurve",
+        "descripcion": "Inspirada en los diseños multifuncionales y futuristas de Joe Colombo, VACURVE destaca por su estética curva y modular. Su mango desmontable funciona como una base, maximizando la eficiencia del espacio y demostrando la versatilidad del diseño. La maqueta a escala, elaborada en madera, captura la ergonomía y funcionalidad del producto, reflejando la fusión entre estilo y practicidad.",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/43a6f094-3a13-4b53-aaa8-1699652c445b",
+        "detalle": ["Vacurve-1.jpg","Vacurve-2.jpg","Vacurve-3.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Kitu",
+        "descripcion": "En colaboración con Balloon Latam y un equipo de diseño, documentamos el proyecto en la región del Maule, donde trabajamos con comunidades rurales para fomentar el emprendimiento y el desarrollo local. A través de actividades de co-diseño y herramientas como el mapeo territorial, identificamos oportunidades y necesidades locales. Presentamos Kitu, un kit de herramientas diseñado para facilitar la planificación y ejecución de proyectos, con el fin de impulsar la conservación y el turismo agroambiental en la región.",       
+        "fecha": "2023",
+        "signo": "servicios",
+        "foto": "https://github.com/user-attachments/assets/0b53466a-0d29-4e6d-af9d-76f7a0dd1333",
+        "detalle": ["Kitu-1.jpg","Kitu-2.jpg","Kitu-3.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Picnic 4queLate",
+        "descripcion": "En colaboración con Josefina Rojas, Francisca Valenzuela y Antonia Widmer, diseñamos 4 que late, un picnic inspirado en el amor y la amistad, enfocado en crear y fortalecer vínculos personales de manera sustentable. El proyecto, orientado a citas dobles, combina conexión, naturaleza y diversión. Utilizamos un diseño circular, con logotipo central y elementos organizados en contenedores de cartón, cortados con láser para equilibrar funcionalidad y estética.",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/73f7ef1f-5d8d-4850-830d-65c168e53178",
+        "detalle": ["Picnic-1.jpg","Picnic-2.jpg","Picnic-3.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Construyendo Chile",
+        "descripcion": "En colaboración con Teresita Gutiérrez, Trinidad Jerez, Cristina Miranda y Francisca Valenzuela, creamos el afiche Construyendo Chile, una representación visual que celebra la diversidad y el aporte multicultural en la construcción de nuestro país. Inspirado en el icónico personaje Condorito, nuestro afiche muestra a condoritos de diversas nacionalidades, cada uno representando una cultura distinta.",
+        "fecha": "2022",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/3f37340a-7b98-4b4b-8a69-b2b890ce85a4",
+        "detalle": ["Chile-1.jpg","Chile-2.jpg","Chile-3.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Datos a la vista",
+        "descripcion": "Creado en colaboración con Paula Claros, Josefina Rojas, Francisca Valenzuela, Josefina Santibáñez, Manuela Münchmeyer y Sol Richards, este afiche, inspirado en las ideas de José Duarte, presenta una visualización de datos tanto en formato digital como análogo. El diseño busca hacer los datos más accesibles y comprensibles, promoviendo la democratización de la información y su relevancia en la comprensión del entorno.",
+        "fecha": "2024",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/542045aa-2c64-4bae-9b64-41a9bf80e761",
+        "detalle": ["Datos-1.jpg","Datos-2.jpg","Datos-3.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Equita",
+        "descripcion": "En el Service Design Challenge, participamos en el desafío de Philips titulado How to turn the tide on fragmented healthcare experience. Junto a mi equipo, Equita, abordamos este reto enfocado en la mejora del acceso y la calidad de la atención ginecológica en Chile. Diseñamos una plataforma digital integral que conecta a pacientes y profesionales, optimizando el tiempo de consulta y mejorando la experiencia de atención médica con empatía y apoyo continuo.",
+        "fecha": "2024",
+        "signo": "servicios",
+        "foto": "https://github.com/user-attachments/assets/d81320b4-a089-483f-a78e-2d7dd4322f0d",
+        "detalle": ["Equita-1.jpg","Equita-2.jpg","Equita-3.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Churu Shrilk",
+        "descripcion": "Este proyecto propone el uso de Shrilk, un material polimérico biodegradable, como solución para reducir el impacto ambiental del empaque. El diseño se enfoca en la seguridad alimentaria, cumpliendo con normas de etiquetado y ambientales. Además, se destaca por ser un material de bajo costo, resistente a la humedad, y fácil de moldear, lo que permite una aplicación eficiente en el empaque de productos alimenticios.",
+        "fecha": "2023",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/22068238-5b69-4e81-99e0-0a053719b296",
+        "detalle": ["Churu-1.jpg","Churu-2.jpg","Churu-3.jpg"],
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "FrenchandFun",
+        "descripcion": "Es un programa diseñado para que los niños de 3 a 12 años aprendan francés de una manera divertida y dinámica. A través de actividades deportivas, artísticas y culturales, los niños descubren la lengua y la cultura francesa mientras participan en juegos y talleres interactivos. Cada sesión, realizada los sábados, combina el aprendizaje del idioma con actividades como la creación de arte",
+        "fecha": "2024",
+        "signo": "visual",
+        "foto": "https://github.com/user-attachments/assets/6846097f-4a92-4d8a-8137-1a719f95dee2",
+        "detalle": ["French-1.jpg","French-2.jpg","French-1.jpg"],
+        "github": "https://github.com/valesawady"
+    }
+]
